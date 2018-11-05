@@ -1,1 +1,2 @@
 Just a text file.
+This line is just for the master branch.
