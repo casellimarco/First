@@ -1,1 +1,2 @@
 Just a text file.
+A line that is not in master.
